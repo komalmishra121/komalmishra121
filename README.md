@@ -1,6 +1,6 @@
 Hi there 👋, I'm Komal Mishra
 
-I am a software development and Machine learning Enthusiast.
+I am a software developer and Machine learning Enthusiast.
 
 - 🔭 I’m currently working on Developing Amazing user friendly website.
 - 🌱 I’m currently learning MERN stack development.
