@@ -82,14 +82,7 @@
 <br/>
 <br/>
 
-# 🌐 Connect with me:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ahmarzaidi) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ahmar__zaidi) [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/19726929/ahmar?tab=topactivity)  [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/spikee07) 
-&emsp;
 
-</p>
-
-<br/>
-<br/>
 
 ![Databases](https://skillicons.dev/icons?i=mongo,mysql,postgres,firebase&perline=11)
 
